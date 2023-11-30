@@ -1,6 +1,6 @@
 
-**FIFA Player Rating Prediction using Logistic Regression
-**
+*FIFA Player Rating Prediction using Logistic Regression
+*
 
 This project showcases the application of Logistic Regression to predict FIFA player ratings, highlighting robust statistical and analytical skills.
 
